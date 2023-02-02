@@ -1,0 +1,126 @@
+body{
+    margin: 0px;
+    text-align: center;
+}
+
+.profile{
+    padding-top: 20px;
+}
+
+.self-intro{
+    height: 40px;
+}
+
+.top-container {
+    background-color: #F1DDD8;
+    padding: 100px;
+}
+.middle-container{
+    background-color: #F2E0DA;
+}
+.bottom-container{
+    background-color: #F4E2DB;
+    margin-bottom: 0px;
+    height: 80px;
+}
+.top-cloud{
+    position: relative;
+    margin-left: 400px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    top: 250px;
+    left: 300px;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    color: #144272;
+    font-size: 50px;
+    width: 50%;
+    margin: 0 auto;
+}
+
+h2{
+    font-family: 'Mansalva', cursive;
+    font-size: 30px;
+}
+
+h3{
+    font-family: 'Tenali Ramakrishna', sans-serif;
+    font-size: 30px;
+}
+
+p{
+    font-family: 'Quicksand', sans-serif;
+    margin-bottom: 0px;
+    margin-top: -40px;
+    height: 100px;
+    padding-top: 10px;
+}
+
+.p2 {
+    font-family: 'Quicksand', sans-serif;
+    margin-bottom: -10px;
+    height: 10px;
+    padding-top: 50px;
+}
+
+.top-cont-p{
+    font-family: 'Schoolbell', cursive;
+    color: #247881;
+    font-size: 30px;
+    padding-top: 45px;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.img1-style{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.img2-style{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.footer-link{
+    font-family: 'Schoolbell', cursive;
+    color: #247881;
+}
+
+/*acv-exp*/
+.acv-exp-row1{  /*done*/
+    position: relative;
+    right: -230px;
+}
+.acv-exp-row2{  /*done*/
+    position: relative;
+    right: -400px;
+}
+
+.img-acv{
+    width: 150px;
+    padding-bottom: 35px;
+    margin: 0px 100px 0px 100px;
+}
+
+.thn{
+    height: 70px;
+}
+.acv-desc{
+    width:300px;
+}
